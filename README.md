@@ -1,2 +1,3 @@
-# mysql_to_bigquery_chunks_python
+# MySql to BigQuery in chunks - python
+
 Import table data from MySQL to BigQuery in chunks.
